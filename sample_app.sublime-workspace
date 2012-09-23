@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"i",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"ext",
+				"extrafieldValue"
+			],
+			[
+				"fiel",
+				"fieldValue"
+			],
+			[
+				"retu",
+				"returnedRadios"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"extrafield",
+				"extrafield_id"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"php-",
+				"php-section-comment	Insert a comment block at the start of a new section in your PHP class"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ty",
+				"typeArray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/houman/Sites/rails_projects/sample_app/app/assets/stylesheets/custom.css",
+		"/Users/houman/Sites/rails_projects/sample_app/example_user.rb",
+		"/Applications/XAMPP/xamppfiles/htdocs/webstay/webstay.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/webstay/configuration.php",
+		"/Users/houman/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/webstay/components/com_k2editform/views/currentstates/tmpl/default.php",
+		"/Library/WebServer/Documents/webstay/templates/ja_t3_blank/css/template.css",
+		"/Users/houman/.codeintel/config",
+		"/Library/WebServer/Documents/webstay/administrator/components/com_k2editform/tables/currentstate.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2editform/views/currentstates/view.html.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2editform/models/currentstates.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2/models/item.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2/views/item/view.html.php",
+		"/Library/WebServer/Documents/webstay/administrator/components/com_k2editform/tables/k2category.php",
+		"/Library/WebServer/Documents/webstay/components/com_propertylisting/views/propertylisting/tmpl/default.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2/views/item/tmpl/itemform.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2editform/helpers/k2editform.php",
+		"/Library/WebServer/Documents/webstay/templates/ja_t3_blank/includes/submission.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2editform/views/currentstate/tmpl/default.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2editform/views/currentstate/view.html.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2editform/k2editform.php",
+		"/Library/WebServer/Documents/webstay/libraries/joomla/application/pathway.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2editform/controller.php",
+		"/Library/WebServer/Documents/webstay/components/com_propertylisting/views/propertylisting/view.html.php",
+		"/Library/WebServer/Documents/webstay/components/com_propertylisting/propertylisting.php",
+		"/Library/WebServer/Documents/webstay/components/com_k2/templates/default/category.php",
+		"/Users/houman/Sites/rails_projects/demo_app/Gemfile.lock",
+		"/Users/houman/Sites/rails_projects/demo_app/README.md",
+		"/Users/houman/Sites/rails_projects/demo_app/.gitignore",
+		"/Users/houman/Sites/simple_cms/app/models/admin_user.rb",
+		"/Users/houman/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+		"/Users/houman/Sites/simple_cms/app/views/subjects/delete.html.erb",
+		"/Users/houman/Sites/simple_cms/app/helpers/demo_helper.rb",
+		"/Users/houman/Sites/simple_cms/app/assets/javascripts/access.js.coffee",
+		"/Users/houman/Sites/rails_projects/demo_app/app/controllers/application_controller.rb",
+		"/Users/houman/Sites/rails_projects/demo_app/app/assets/stylesheets/application.css",
+		"/Users/houman/Sites/rails_projects/demo_app/config/application.rb",
+		"/Users/houman/Sites/rails_projects/demo_app/app/views/layouts/application.html.erb",
+		"/Users/houman/Sites/rails_projects/demo_app/app/helpers/application_helper.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Library/WebServer/Documents/webstay/administrator/components/com_k2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"K2PluginsItemGallery",
+			"k2",
+			"JModel",
+			"K2ItemExtraFieldsInstances",
+			"edit",
+			"itemExtraFields",
+			"getItemExtraFields",
+			"Jpath"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"applica",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"stat",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"ahe",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"jpath",
+				"libraries/joomla/application/pathway.php"
+			],
+			[
+				"gf",
+				"Gemfile"
+			],
+			[
+				"gemfile.lock",
+				"Gemfile.lock"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"nh",
+				"app/views/subjects/new.html.erb"
+			],
+			[
+				"admin",
+				"app/models/admin_user.rb"
+			],
+			[
+				"ac",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"ahr",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"user",
+				"app/views/layouts/application.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/webstay/webstay.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
