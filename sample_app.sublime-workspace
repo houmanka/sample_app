@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"si",
+				"signup"
+			],
+			[
+				"des",
+				"describe"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"have",
+				"have_selector"
+			],
+			[
 				"mar",
 				"margin-right"
 			],
@@ -87,6 +107,54 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "spec/requests/static_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/requests/user_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/helpers/applicaiton_help_spec.rb",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/models/user_spec.rb",
+			"settings":
+			{
+				"buffer_size": 214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -135,7 +203,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 602.0
 	},
 	"console":
 	{
@@ -152,6 +220,25 @@
 	},
 	"file_history":
 	[
+		"/Users/houman/Sites/rails_projects/sample_app/db/migrate/20120924130507_create_users.rb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/Users/houman/Sites/rails_projects/sample_app/spec/support/utilities.rb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/houman/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+		"/Users/houman/Sites/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/Users/houman/Sites/rails_projects/sample_app/config/routes.rb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/houman/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/houman/Sites/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/houman/.bash_profile",
+		"/Users/houman/Sites/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/houman/Sites/rails_projects/sample_app/app/assets/stylesheets/application.css",
+		"/Users/houman/Sites/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
 		"/Users/houman/Sites/rails_projects/sample_app/app/assets/stylesheets/custom.css",
 		"/Users/houman/Sites/rails_projects/sample_app/example_user.rb",
 		"/Applications/XAMPP/xamppfiles/htdocs/webstay/webstay.sublime-project",
@@ -182,7 +269,6 @@
 		"/Users/houman/Sites/rails_projects/demo_app/README.md",
 		"/Users/houman/Sites/rails_projects/demo_app/.gitignore",
 		"/Users/houman/Sites/simple_cms/app/models/admin_user.rb",
-		"/Users/houman/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
 		"/Users/houman/Sites/simple_cms/app/views/subjects/delete.html.erb",
 		"/Users/houman/Sites/simple_cms/app/helpers/demo_helper.rb",
 		"/Users/houman/Sites/simple_cms/app/assets/javascripts/access.js.coffee",
@@ -210,6 +296,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			":text =>",
+			"text:",
+			"#999",
 			"K2PluginsItemGallery",
 			"k2",
 			"JModel",
@@ -235,13 +324,175 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "spec/requests/static_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1285,
+								834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spec/requests/user_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spec/helpers/applicaiton_help_spec.rb",
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "spec/models/user_spec.rb",
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 4,
+					"file": "app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -283,6 +534,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 347.0
+	},
 	"replace":
 	{
 		"height": 0.0
@@ -294,16 +549,112 @@
 		"selected_items":
 		[
 			[
+				"user_sp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"create",
+				"db/migrate/20120924130507_create_users.rb"
+			],
+			[
+				"contact",
+				"app/views/static_pages/contact.html.erb"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"contac",
+				"app/views/static_pages/contact.html.erb"
+			],
+			[
+				"help",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"about",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"ahs",
+				"spec/helpers/applicaiton_help_spec.rb"
+			],
+			[
 				"applica",
-				"app/assets/stylesheets/application.css"
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"uti",
+				"spec/support/utilities.rb"
 			],
 			[
 				"home",
 				"app/views/static_pages/home.html.erb"
 			],
 			[
-				"application",
+				"user_pages",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"appli",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"_foot",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"stati",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"application.html",
 				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"_hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"_foo",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
 			],
 			[
 				"stat",
